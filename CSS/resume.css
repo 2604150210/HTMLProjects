@@ -1,0 +1,8 @@
+.wrap{
+    width: 500px;
+    height: 1024px;
+    margin:0 auto;
+}
+img,span{
+    vertical-align:middle;
+}
